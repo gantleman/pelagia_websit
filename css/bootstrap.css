@@ -1956,7 +1956,7 @@ pre code {
     width: 41.66666667%;
   }
   .col-md-4 {
-    width: 33.33333333%;
+
   }
   .col-md-3 {
     width: 25%;
@@ -2114,7 +2114,7 @@ pre code {
     width: 41.66666667%;
   }
   .col-lg-4 {
-    width: 33.33333333%;
+
   }
   .col-lg-3 {
     width: 25%;
@@ -4256,8 +4256,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 @media (min-width: 768px) {
   .navbar-nav {
-    float: left;
-    margin: 0;
+	float: right;
+	margin: 0;
   }
   .navbar-nav > li {
     float: left;
